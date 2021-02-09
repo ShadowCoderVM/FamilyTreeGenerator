@@ -1,0 +1,14 @@
+Man idFamyly = 0 IdName = 0 idPathronic = 1
+Man idFamyly = 0 IdName = 1 idPathronic = 5
+Man idFamyly = 0 IdName = 5 idPathronic = 7
+Woman idFamyly = 9 IdName = 7 idPathronic = 5
+Woman idFamyly = 5 IdName = 3 idPathronic = 9
+Man idFamyly = 5 IdName = 9 idPathronic = 0
+Woman idFamyly = 9 IdName = 9 idPathronic = 0
+Woman idFamyly = 8 IdName = 3 idPathronic = 0
+Man idFamyly = 8 IdName = 0 idPathronic = 4
+Man idFamyly = 8 IdName = 4 idPathronic = 3
+Woman idFamyly = 9 IdName = 3 idPathronic = 3
+Woman idFamyly = 5 IdName = 9 idPathronic = 0
+Man idFamyly = 5 IdName = 0 idPathronic = 2
+Woman idFamyly = 8 IdName = 9 idPathronic = 7

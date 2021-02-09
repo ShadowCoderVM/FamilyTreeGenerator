@@ -1,0 +1,11 @@
+F:\Users\Sergei\source\repos\TreeСourseWork\TreeСourseWork\bin\Debug\TreeСourseWork.exe
+F:\Users\Sergei\source\repos\TreeСourseWork\TreeСourseWork\bin\Debug\TreeСourseWork.pdb
+F:\Users\Sergei\source\repos\TreeСourseWork\TreeСourseWork\obj\Debug\TreeСourseWork.csprojAssemblyReference.cache
+F:\Users\Sergei\source\repos\TreeСourseWork\TreeСourseWork\obj\Debug\TreeСourseWork.MainForm.resources
+F:\Users\Sergei\source\repos\TreeСourseWork\TreeСourseWork\obj\Debug\TreeСourseWork.Properties.Resources.resources
+F:\Users\Sergei\source\repos\TreeСourseWork\TreeСourseWork\obj\Debug\TreeСourseWork.TreeForm.resources
+F:\Users\Sergei\source\repos\TreeСourseWork\TreeСourseWork\obj\Debug\TreeСourseWork.csproj.GenerateResource.cache
+F:\Users\Sergei\source\repos\TreeСourseWork\TreeСourseWork\obj\Debug\TreeСourseWork.csproj.CoreCompileInputs.cache
+F:\Users\Sergei\source\repos\TreeСourseWork\TreeСourseWork\obj\Debug\TreeСourseWork.exe
+F:\Users\Sergei\source\repos\TreeСourseWork\TreeСourseWork\obj\Debug\TreeСourseWork.pdb
+F:\Users\Sergei\source\repos\TreeСourseWork\TreeСourseWork\obj\Debug\TreeСourseWork.MDIParent1.resources

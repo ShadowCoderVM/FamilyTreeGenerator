@@ -1,0 +1,13 @@
+F:\Users\Sergei\source\repos\TreeСourseWork\FamilyTreeGenerator\bin\Debug\TreeСourseWork.exe
+F:\Users\Sergei\source\repos\TreeСourseWork\FamilyTreeGenerator\bin\Debug\TreeСourseWork.pdb
+F:\Users\Sergei\source\repos\TreeСourseWork\FamilyTreeGenerator\obj\Debug\FamilyTreeGenerator.csprojAssemblyReference.cache
+F:\Users\Sergei\source\repos\TreeСourseWork\FamilyTreeGenerator\obj\Debug\TreeСourseWork.Properties.Resources.resources
+F:\Users\Sergei\source\repos\TreeСourseWork\FamilyTreeGenerator\obj\Debug\FamilyTreeGenerator.csproj.GenerateResource.cache
+F:\Users\Sergei\source\repos\TreeСourseWork\FamilyTreeGenerator\obj\Debug\FamilyTreeGenerator.csproj.CoreCompileInputs.cache
+F:\Users\Sergei\source\repos\TreeСourseWork\FamilyTreeGenerator\obj\Debug\TreeСourseWork.exe
+F:\Users\Sergei\source\repos\TreeСourseWork\FamilyTreeGenerator\obj\Debug\TreeСourseWork.pdb
+F:\Users\Sergei\source\repos\TreeСourseWork\FamilyTreeGenerator\obj\Debug\FamilyTreeGenerator.MDIParent.resources
+F:\Users\Sergei\source\repos\TreeСourseWork\FamilyTreeGenerator\obj\Debug\FamilyTreeGenerator.TakeDictionariesPaths.resources
+F:\Users\Sergei\source\repos\TreeСourseWork\FamilyTreeGenerator\obj\Debug\FamilyTreeGenerator.TakeGenerateSettingsForm.resources
+F:\Users\Sergei\source\repos\TreeСourseWork\FamilyTreeGenerator\obj\Debug\FamilyTreeGenerator.TakeFullNameForm.resources
+F:\Users\Sergei\source\repos\TreeСourseWork\FamilyTreeGenerator\obj\Debug\FamilyTreeGenerator.TreeForm.resources
